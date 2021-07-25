@@ -1,6 +1,7 @@
 # Learning NLP with SpaCy 2.6
-The following notebooks provide a quick introduction about the features that you can expect from a Natural Processing Engine. 
-Each notebook focuses on one feature that has been shown with SpaCy 2.6 with the English model.
+The following notebooks provide a demonstration the features that you can expect from a Natural Processing Engine, starting simple task such as Tokenization to advanced analysis such as Named Entity recognition. 
+Each notebook focuses on one feature that has been shown with SpaCy 2.6 with the English model. Please refers to SpaCy documentation for more details.
+
 
 ##Let's start 
 You can fork and/or clone this repository and get all the notebooks available.
@@ -9,7 +10,7 @@ You can fork and/or clone this repository and get all the notebooks available.
 git clone https://github.com/nluninja/nlp_spacy
 ```
 
-## Available datasets
+## Available Notebooks
 
 | Name | Description | classes | format | language |
 | ---- | ----------- | ------- | ------ | -------- |
