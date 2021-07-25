@@ -12,9 +12,9 @@ git clone https://github.com/nluninja/nlp_crash_course
 
 ## Available Notebooks
 
-| Name |requires|
-| ---- | ----------- | ----------|
-| [`NLP Basics`](./notebooks/1_NLPBasics.ipynb) |  SpaCy 2.6| 
+| Name | requires |
+| ---- | ----------- | ---------- |
+| [`NLP Basics`](./notebooks/1_NLPBasics.ipynb) |  SpaCy 2.6 | 
 | [`Tokenization`](./notebooks/2_Tonekization.ipynb) |  SpaCy 2.6| 
 | [`Stemming`](./notebooks/3_Stemming.ipynb) | NLTK 3.6.2 | 
 | [`Lemmatization`](./notebooks/4_Lemmatization.ipynb) | SpaCy 2.6 | 
