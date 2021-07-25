@@ -1,6 +1,6 @@
 # Learning NLP with SpaCy 2.6
 The following notebooks provide a demonstration the features that you can expect from a Natural Processing Engine, starting simple task such as Tokenization to advanced analysis such as Named Entity recognition. 
-Each notebook focuses on one feature that has been shown with SpaCy 2.6 with the English model. Please refers to SpaCy documentation for more details.
+Each notebook focuses on one feature that has been shown with SpaCy 2.6 with the English model. Please refer to [SpaCy documentation](https://v2.spacy.io/usage) for more details.
 
 
 ##Let's start 
