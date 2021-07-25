@@ -1,0 +1,8 @@
+name: nlp_course
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - spacy=2.3.7
+  - nltk=3.6.2
