@@ -14,13 +14,13 @@ git clone https://github.com/nluninja/nlp_crash_course
 
 | Name |requires|
 | ---- | ----------- | ----------|
-| [`NLP Basics`](./notebooks/1_NLPBasics.ipynb) |  SpaCy 2.6|
-| [`Tokenization`](./notebooks/2_Tonekization.ipynb) |  SpaCy 2.6|
-| [`Stemming`](./notebooks/3_Stemming.ipynb) | NLTK 3.6.2 |
-| [`Lemmatization`](./notebooks/4_Lemmatization.ipynb) | SpaCy 2.6 |
-| [`Stop Words`](./notebooks/5_Stop-Words.ipynb) | SpaCy 2.6 |
-| [`Part-of-Speech`](./notebooks/6_POS-Basics.ipynb) | SpaCy 2.6 |
-| [`Visualizing PoS`](./notebooks/7_Visualizing-POS.ipynb) | SpaCy 2.6 |
-| [`Named Entities`](./notebooks/8_NamedEntities.ipynb) | SpaCy 2.6 |
-| [`Visualizing-NER`](./notebooks/9_Visualizing-NER.ipynb) | SpaCy 2.6 |
+| [`NLP Basics`](./notebooks/1_NLPBasics.ipynb) |  SpaCy 2.6| 
+| [`Tokenization`](./notebooks/2_Tonekization.ipynb) |  SpaCy 2.6| 
+| [`Stemming`](./notebooks/3_Stemming.ipynb) | NLTK 3.6.2 | 
+| [`Lemmatization`](./notebooks/4_Lemmatization.ipynb) | SpaCy 2.6 | 
+| [`Stop Words`](./notebooks/5_Stop-Words.ipynb) | SpaCy 2.6 | 
+| [`Part-of-Speech`](./notebooks/6_POS-Basics.ipynb) | SpaCy 2.6 | 
+| [`Visualizing PoS`](./notebooks/7_Visualizing-POS.ipynb) | SpaCy 2.6 | 
+| [`Named Entities`](./notebooks/8_NamedEntities.ipynb) | SpaCy 2.6 | 
+| [`Visualizing-NER`](./notebooks/9_Visualizing-NER.ipynb) | SpaCy 2.6 | 
 
